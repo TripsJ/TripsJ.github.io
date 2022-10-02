@@ -1,0 +1,39 @@
+body{
+    background-color: #0064cb;
+}
+
+.error-container{
+    width: fit-content;
+    height: fit-content;
+}
+
+.error-image
+{
+    z-index: -1;
+}
+
+
+
+.main-text {
+    background-color: none;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 90%;
+    left: 40%;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 400%;
+    color: #fe8100;
+    text-align: center;
+
+
+}
+
+footer{
+    position: absolute;
+    border-bottom: 3px;
+
+}
+/* image blue #007dfe*/
